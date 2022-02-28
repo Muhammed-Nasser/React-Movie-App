@@ -1,7 +1,7 @@
 # React-Movie-App
 React Movie App.
 
-#How to stert:
+# Installation:
 
 <br> npm install 
 <br> npm start
